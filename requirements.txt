@@ -8,3 +8,4 @@ langchain
 validators
 python-dotenv
 faiss-cpu
+langchain_huggingface
